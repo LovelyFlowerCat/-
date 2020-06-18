@@ -1,2 +1,2 @@
 # MiceLoveRice
-This is my first repository. Please take care of me, thanks a lot.
+本人还是一个本科在读的孩纸，我将在此给大家分享我所做的一些小项目，欢迎大家参考并提出更好的修改意见哦，谢谢大家啦！
